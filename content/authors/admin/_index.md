@@ -27,8 +27,9 @@ bio: My research interests include searching for signs of new physics and machin
 # Interests to show in About widget
 interests:
   - Particle Physics
-  - Machine Learning
   - Dark Matter
+  - Machine Learning
+
 
 # Education to show in About widget
 education:
