@@ -25,8 +25,8 @@ sections:
       items:
         - title: Physics Lab Assistant
           company: Elmhurst University
-          company_url: ''
-          company_logo: 
+          company_url: 'https://www.elmhurst.edu/academics/departments/physics/'
+          company_logo: elmhurst
           location: Illinois
           date_start: '2023-08-28'
           date_end: ''
@@ -38,7 +38,7 @@ sections:
         - title: Mathematics Teacher Assistant ELSA Program
           company: Elmhurst University
           company_url: 'https://www.elmhurst.edu/academics/elmhurst-learning-success-academy/'
-          company_logo: 
+          company_logo: elmhurst
           location: Illinois
           date_start: '2022-08-29'
           date_end: ''
@@ -51,7 +51,7 @@ sections:
         - title: Physics and Mathematics tutor
           company: Elmhurst University
           company_url: 'https://www.elmhurst.edu/academics/academic-centers/the-learning-center/'
-          company_logo: 
+          company_logo: elmhurst
           location: Illinois
           date_start: '2021-08-30'
           date_end: ''
