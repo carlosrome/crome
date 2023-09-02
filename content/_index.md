@@ -23,7 +23,39 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Physics Lab Assistant
+          company: Elmhurst University
+          company_url: ''
+          company_logo: 
+          location: Illinois
+          date_start: '2023-08-28'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
 
+              * Setting up the experiments
+              * Overseeing student's progress
+        - title: Mathematics Teacher Assistant ELSA Program
+          company: Elmhurst University
+          company_url: 'https://www.elmhurst.edu/academics/elmhurst-learning-success-academy/'
+          company_logo: 
+          location: Illinois
+          date_start: '2022-08-29'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+
+              * Grading
+              * Guiding students
+    
+        - title: Physics and Mathematics tutor
+          company: Elmhurst University
+          company_url: 'https://www.elmhurst.edu/academics/academic-centers/the-learning-center/'
+          company_logo: 
+          location: Illinois
+          date_start: '2021-08-30'
+          date_end: ''
+          description: Provided tutoring for advanced physics and mathematics courses at the university's Learning Center.
     design:
       columns: '2'
   - block: accomplishments
