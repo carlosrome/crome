@@ -87,6 +87,18 @@ sections:
       columns: '2'
     
 
+  - block: collection
+    id: featured
+    content:
+      title: Publications
+      text: |-
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
 
 
   - block: collection
@@ -100,18 +112,6 @@ sections:
       columns: '2'
       view: card
 
-  - block: collection
-    id: featured
-    content:
-      title: Publications
-      text: |-
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
 
   - block: contact
     id: contact
