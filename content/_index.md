@@ -87,20 +87,10 @@ sections:
       columns: '2'
     
 
+
   - block: collection
-    id: featured
     content:
       title: Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
-  - block: collection
-    content:
-      title: Conferences
       text: |-
       filters:
         folders:
@@ -109,6 +99,18 @@ sections:
     design:
       columns: '2'
       view: citation
+
+  - block: collection
+    id: featured
+    content:
+      title: Conferences
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      columns: '2'
+      view: card
 
   - block: contact
     id: contact
